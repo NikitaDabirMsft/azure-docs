@@ -27,7 +27,7 @@ Network Virtual Appliances (NVAs) with most large scale solutions requiring v-fi
 > During preview, this feature is only supported for NVAs available on the [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps?search=network%20virtual%20appliance&page=1&filters=virtual-machine-images%3Bpartners).
 >
 
-**Diagram 1**
+**Diagram **
 
 :::image type="content" source="./media/nva-accelerated-connections/accelerated-connections-diagram.png" alt-text="Diagram of the connection performance optimization feature.":::
 
@@ -65,6 +65,8 @@ This list will be updated as more regions become available. The following region
 
 * North Central US
 * West Central US
+* East US
+* West US
 
 ## Supported SKUs
 
